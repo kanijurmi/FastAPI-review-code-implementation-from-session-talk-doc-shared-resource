@@ -1,0 +1,1 @@
+# FastAPI-review-code-implementation-from-session-talk-doc-shared-resource
